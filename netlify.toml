@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "http://bv.b3tter.eu.org:34320/"
+  status = 200
+  froce = true
