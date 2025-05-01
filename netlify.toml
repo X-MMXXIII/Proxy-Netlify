@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "http://app.netlify.com:443//"
+  to = "http://app.netlify.com:443/"
   status = 200
   froce = true
