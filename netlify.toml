@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://bv.b3tter.eu.org:443/"
+  to = "http://wss-hk.b3tter.eu.org:443/"
   status = 200
   froce = true
