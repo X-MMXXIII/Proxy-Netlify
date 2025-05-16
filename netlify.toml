@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://wss-hk.pages.dev:443/"
+  to = "https://wss-hk.pages.dev/:splat"
   status = 200
-  froce = true
+  force = true
